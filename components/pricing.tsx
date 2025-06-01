@@ -117,7 +117,7 @@ export default function Pricing() {
                   size="lg"
                   className="relative w-full bg-gradient-to-r from-[#ff2970] to-[#ff9770] text-white transition-all duration-300 hover:shadow-[0_0_20px_rgba(255,41,112,0.5)]"
                 >
-                  <Link href="https://www.pay.moneyfusion.net/plateforme-dabonnement-streaming-9-en-1-_1745096261612/">
+                  <Link href="">
                     <span className="relative z-10">Acheter maintenant</span>
                     <span className="absolute inset-0 bg-gradient-to-r from-[#ff2970] to-[#ff9770] opacity-0 transition-opacity duration-300 hover:opacity-100"></span>
                   </Link>
@@ -155,7 +155,7 @@ export default function Pricing() {
             size="lg"
             className="relative cursor-pointer overflow-hidden bg-gradient-to-r from-[#4cc9f0] to-[#7b2cbf] text-white transition-all duration-300 hover:shadow-[0_0_20px_rgba(76,201,240,0.5)]"
           >
-            <Link href="https://www.pay.moneyfusion.net/plateforme-dabonnement-streaming-9-en-1-_1745096261612/">
+            <Link href="">
               <span className="relative z-10 ">Acheter Freecine maintenant</span>
               <span className="absolute inset-0 bg-gradient-to-r from-[#4cc9f0] to-[#7b2cbf] opacity-0 transition-opacity duration-300 hover:opacity-100"></span>
             </Link>
