@@ -8,7 +8,7 @@ interface CountdownTimerProps {
 
 export default function CountdownTimer({ endDate }: CountdownTimerProps) {
   // Utiliser une date fixe (10 jours à partir d'une date de référence)
-  const fixedEndDate = new Date("2025-05-01T00:00:00")
+  const fixedEndDate = new Date("2025-06-30T23:59:59")
 
   const [timeLeft, setTimeLeft] = useState({
     days: 0,

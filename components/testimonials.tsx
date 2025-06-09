@@ -70,6 +70,28 @@ export default function Testimonials() {
       thumbnail: "/capture1.jpg?height=200&width=320",
       verified: true,
     },
+    {
+      id: "video3",
+      name: "Mairo V.",
+      location: "Cotonou",
+      image: "/placeholder.svg?height=100&width=100",
+      rating: 5,
+      videoSrc: "/video1.mp4", // À remplacer par un vrai fichier vidéo
+      duration: "0:18",
+      thumbnail: "/im_vid1.jpeg?height=200&width=320",
+      verified: true,
+    },
+    {
+      id: "video4",
+      name: "Thomas G.",
+      location: "Bouaké",
+      image: "/placeholder.svg?height=100&width=100",
+      rating: 5,
+      videoSrc: "/video2.mp4", // À remplacer par un vrai fichier vidéo
+      duration: "0:18",
+      thumbnail: "/im_vid2.jpeg?height=200&width=320",
+      verified: true,
+    },
   ]
 
   const imageTestimonials = [
